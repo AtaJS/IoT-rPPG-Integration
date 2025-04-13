@@ -141,4 +141,4 @@ This project was developed by Ata Jodeiri Seyedian at the University of Oulu for
 The rPPG implementation is based on the [HeartPi project](https://github.com/ganeshkumartk/heartpi).
 
 ## License
-[Specify your license here]
+MIT License
