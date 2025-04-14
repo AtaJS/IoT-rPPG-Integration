@@ -50,7 +50,7 @@ The heart rate measurement uses a computer vision approach:
 6. Heart rate calculation from dominant frequency
 
 ![fig1](pics/fig1.jpg)
-![fig2](pics/fig2.jpg)
+![fig2](pics/fig2.png)
 ### Process Flow
 1. PC initiates the measurement by sending a start signal to Raspberry Pi
 2. Raspberry Pi instructs Arduino to prepare the environment
