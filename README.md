@@ -4,8 +4,10 @@
 ## Project Overview
 This repository contains the implementation of a contactless heart rate monitoring system that integrates Internet of Things (IoT) technologies with remote photoplethysmography (rPPG). The system uses three interconnected devices (PC, Raspberry Pi 400, and Arduino Mega) to create a complete measurement platform with user verification and environmental control capabilities.
 
+![fig3](pics/fig3.jpg)
+
 ## Demo
-View the project demonstration on YouTube: [Demo Video Link]
+View the project demonstration on YouTube: [[Demo Video Link](https://www.youtube.com/watch?v=oNUWJu3g3D4&si=TzuRgFtludmjtAAG)]
 
 ## System Architecture
 The project implements a master-slave architecture:
@@ -47,6 +49,8 @@ The heart rate measurement uses a computer vision approach:
 5. Frequency analysis using FFT
 6. Heart rate calculation from dominant frequency
 
+![fig1](pics/fig1.jpg)
+![fig2](pics/fig2.jpg)
 ### Process Flow
 1. PC initiates the measurement by sending a start signal to Raspberry Pi
 2. Raspberry Pi instructs Arduino to prepare the environment
