@@ -1,3 +1,5 @@
+!Arduino Connections
+
 # IoT-Integrated Remote Photoplethysmography System
 
 ## Project Overview
@@ -63,7 +65,9 @@ The heart rate measurement uses a computer vision approach:
 - `images/`: Setup photographs and diagrams
 
 ## Hardware Setup
-![Hardware Setup](images/setup_photo.jpg)
+
+!Arduino Connections
+
 
 ## Requirements
 
