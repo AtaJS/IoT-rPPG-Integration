@@ -65,7 +65,7 @@ The heart rate measurement uses a computer vision approach:
 
 ## Hardware Setup
 
-!arduino_connections
+!pics/arduino_connections
 
 
 ## Requirements
